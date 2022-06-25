@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there! 👋, I'm Ckblck
 
-<!--
-**Ckblck/ckblck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### :open_hands:  About me
+I'm a university student from Argentina 🧉 who loves the Java programming language ☕.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Having always been around computers, you could call me a tech geek!
+ 
+#### 💡 **Qualifications**
+* **+3 years** Spigot API experience.
+* MySQL, Redis, MongoDB, YML and JSON knowledge.
+* Previous experience
+	* Worked at [Minecub](https://www.minecub.es/) during 2020.
+	* Team work with other developers.
+* **HTML**, **CSS**, **JS** & **Svelte** grasp
+* **C1** English level
+#### 💼 **Portfolio**
+* [Public projects](https://github.com/Ckblck?tab=repositories)
+* [Personal website](https://ckblck.dev)
+#### 💬 **Contact**
+* On [Discord](todo)
+* Via email at *me@ckblck.dev*
+* [Spigot page](https://www.spigotmc.org/members/ckblck.418385/)
