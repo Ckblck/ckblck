@@ -12,7 +12,7 @@ I'm a university student from Argentina 🧉 who loves the Java programming lang
 	* Worked at [Minecub](https://www.minecub.es/) during 2020.
 	* Team work with other developers.
 * **HTML**, **CSS**, **JS** & **Svelte** grasp
-* Worked with several APIs: **ProtocolLib**, **Verus-API**, **NMS**, **SlimeWorldManager**.
+* Some libraries I've worked with: **ProtocolLib**, **Verus-API**, **NMS**, **SlimeWorldManager**.
 * **C1** English level
 #### 💼 **Portfolio**
 * [Public projects](https://github.com/Ckblck?tab=repositories)
