@@ -6,6 +6,7 @@ I'm a university student from Argentina 🧉 who loves the Java programming lang
  Having always been around computers, you could call me a tech geek!
  
 #### 💡 **Qualifications**
+* **+4 years** of Java experience.
 * **+3 years** Spigot API experience.
 * MySQL, Redis, MongoDB, YML and JSON knowledge.
 * Previous experience
